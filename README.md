@@ -16,6 +16,8 @@
   <br><br>
   <img src="https://discord.c99.nl/widget/theme-4/831817809297276982.png">
   <br><br>
+    <img src="https://discord.c99.nl/widget/theme-4/180401186279522315.png">
+  <br><br>
   <br>
 </p>
 
